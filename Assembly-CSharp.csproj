@@ -66,6 +66,7 @@
   <ItemGroup>
     <Compile Include="Assets\Enviroment\Grass by Daniel Ilett\BotWGrass.cs" />
     <Compile Include="Assets\Enviroment\Simple Water Shader\Resources\WaterReflection.cs" />
+    <Compile Include="Assets\Scripts\Rotation.cs" />
     <Compile Include="Assets\Settings\TutorialInfo\Scripts\Readme.cs" />
   </ItemGroup>
   <ItemGroup>
