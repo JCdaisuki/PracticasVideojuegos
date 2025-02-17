@@ -64,10 +64,12 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.16f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Enviroment\Grass by Daniel Ilett\BotWGrass.cs" />
     <Compile Include="Assets\Enviroment\Simple Water Shader\Resources\WaterReflection.cs" />
     <Compile Include="Assets\Settings\TutorialInfo\Scripts\Readme.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Enviroment\Grass by Daniel Ilett\BotWGrass.shader" />
     <None Include="Assets\Enviroment\SkySeries Freebie\Hdri setup.txt" />
   </ItemGroup>
   <ItemGroup>
