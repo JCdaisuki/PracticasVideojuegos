@@ -4,8 +4,7 @@ using UnityEngine;
 
 public class ObstacleGenerator : MonoBehaviour
 {
-    public GameObject obstacle1; 
-    public GameObject obstacle2; 
+    public GameObject obstacle; 
     public int obstaclesNum = 10; 
 
     private BoxCollider area; 
@@ -22,8 +21,7 @@ public class ObstacleGenerator : MonoBehaviour
         for(int i = 0; i < obstaclesNum; i++)
         {
             Vector3 randomPosition = GetRandomPositionInArea();
-            GameObject prefabToInstantiate = (Random.value > 0.5f) ? obstacle1 : obstacle2;
-            Instantiate(prefabToInstantiate, randomPosition, Quaternion.identity);
+            Instantiate(obstacle, randomPosition, Quaternion.identity);
         }
     }
 
