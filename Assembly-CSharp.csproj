@@ -66,9 +66,11 @@
   <ItemGroup>
     <Compile Include="Assets\Enviroment\ObstacleCoursePack\Scripts\Pendulum.cs" />
     <Compile Include="Assets\Enviroment\ObstacleCoursePack\Scripts\SavePos.cs" />
+    <Compile Include="Assets\Scripts\ObstacleGenerator.cs" />
     <Compile Include="Assets\Enviroment\ObstacleCoursePack\Controller\CameraManager.cs" />
     <Compile Include="Assets\Enviroment\Grass by Daniel Ilett\BotWGrass.cs" />
     <Compile Include="Assets\Enviroment\ObstacleCoursePack\Scripts\FallPlat.cs" />
+    <Compile Include="Assets\Scripts\PlayeTagsCheck.cs" />
     <Compile Include="Assets\Enviroment\ObstacleCoursePack\Scripts\WallMovable.cs" />
     <Compile Include="Assets\Enviroment\ObstacleCoursePack\Scripts\Rotator.cs" />
     <Compile Include="Assets\Enviroment\Simple Water Shader\Resources\WaterReflection.cs" />
