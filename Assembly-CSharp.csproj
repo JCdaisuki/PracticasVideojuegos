@@ -83,6 +83,7 @@
     <Compile Include="Assets\Settings\Standard Assets\Environment\Water\Water\Scripts\WaterTile.cs" />
     <Compile Include="Assets\Settings\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
     <Compile Include="Assets\Enviroment\ObstacleCoursePack\Scripts\SavePos.cs" />
+    <Compile Include="Assets\Scripts\EnemyController.cs" />
     <Compile Include="Assets\Settings\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Utility\WaypointProgressTracker.cs" />
     <Compile Include="Assets\Scripts\ObstacleGenerator.cs" />
@@ -96,8 +97,8 @@
     <Compile Include="Assets\Settings\Standard Assets\Utility\CurveControlledBob.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Cameras\Scripts\AbstractTargetFollower.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Cameras\Scripts\TargetFieldOfView.cs" />
-    <Compile Include="Assets\Settings\Standard Assets\Environment\Water\Water\Scripts\MeshContainer.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" />
+    <Compile Include="Assets\Settings\Standard Assets\Environment\Water\Water\Scripts\MeshContainer.cs" />
     <Compile Include="Assets\Scripts\PlayeTagsCheck.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Environment\Water\Water\Scripts\SpecularLighting.cs" />
     <Compile Include="Assets\Settings\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
@@ -124,8 +125,8 @@
     <Compile Include="Assets\Settings\Standard Assets\Utility\SimpleActivatorMenu.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" />
     <Compile Include="Assets\Enviroment\FantasyEnvironments\Environments\Town\Scripts\Door.cs" />
-    <Compile Include="Assets\Settings\Standard Assets\Utility\ForcedReset.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs" />
+    <Compile Include="Assets\Settings\Standard Assets\Utility\ForcedReset.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Environment\Water\Water\Scripts\WaterBase.cs" />
     <Compile Include="Assets\Enviroment\ObstacleCoursePack\Scripts\KillZone.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Cameras\Scripts\FreeLookCam.cs" />
