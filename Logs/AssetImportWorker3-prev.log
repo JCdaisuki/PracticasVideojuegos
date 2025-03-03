@@ -16,7 +16,11 @@ C:/Users/Lola/Desktop/Videojuegos/PracticasVideojuegos
 Logs/AssetImportWorker3.log
 -srvPort
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 53161
+=======
+51541
+>>>>>>> Stashed changes
 =======
 51541
 >>>>>>> Stashed changes
@@ -54,6 +58,7 @@ C:/Users/Lola/Desktop/Videojuegos/PracticasVideojuegos
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Player connection [29504] Host "[IP] 10.82.44.156 [Port] 0 [Flags] 2 [Guid] 2231014018 [EditorId] 2231014018 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-2VN0TS3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
 Player connection [29504] Host "[IP] 10.82.44.156 [Port] 0 [Flags] 2 [Guid] 2231014018 [EditorId] 2231014018 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-2VN0TS3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
@@ -61,12 +66,17 @@ Player connection [29504] Host "[IP] 10.82.44.156 [Port] 0 [Flags] 2 [Guid] 2231
 [Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
 Refreshing native plugins compatible for Editor in 11.07 ms, found 3 plugins.
 =======
+=======
+>>>>>>> Stashed changes
 Player connection [19012] Host "[IP] 10.82.172.250 [Port] 0 [Flags] 2 [Guid] 1837887567 [EditorId] 1837887567 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-2VN0TS3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
 Player connection [19012] Host "[IP] 10.82.172.250 [Port] 0 [Flags] 2 [Guid] 1837887567 [EditorId] 1837887567 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-2VN0TS3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
 Refreshing native plugins compatible for Editor in 10.57 ms, found 3 plugins.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.16f1 (d2c21f0ef2f1)
@@ -84,6 +94,7 @@ Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Manage
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/etc'
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56520
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -96,6 +107,8 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling: 499ms
 	BeginReloadAssembly (93ms)
 =======
+=======
+>>>>>>> Stashed changes
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56988
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -107,12 +120,16 @@ Mono: successfully reloaded assembly
 - Finished resetting the current domain, in  0.223 seconds
 Domain Reload Profiling: 509ms
 	BeginReloadAssembly (94ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 	RebuildCommonClasses (26ms)
 	RebuildNativeTypeToScriptingClass (8ms)
@@ -130,6 +147,8 @@ Domain Reload Profiling: 509ms
 		RebuildScriptCaches (0ms)
 		SetupLoadedEditorAssemblies (172ms)
 =======
+=======
+>>>>>>> Stashed changes
 	RebuildCommonClasses (27ms)
 	RebuildNativeTypeToScriptingClass (8ms)
 	initialDomainReloadingComplete (54ms)
@@ -145,6 +164,9 @@ Domain Reload Profiling: 509ms
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
 		SetupLoadedEditorAssemblies (170ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (8ms)
@@ -152,8 +174,13 @@ Domain Reload Profiling: 509ms
 			RefreshPlugins (0ms)
 			BeforeProcessingInitializeOnLoad (2ms)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 			ProcessInitializeOnLoadAttributes (118ms)
 			ProcessInitializeOnLoadMethodAttributes (38ms)
+=======
+			ProcessInitializeOnLoadAttributes (117ms)
+			ProcessInitializeOnLoadMethodAttributes (37ms)
+>>>>>>> Stashed changes
 =======
 			ProcessInitializeOnLoadAttributes (117ms)
 			ProcessInitializeOnLoadMethodAttributes (37ms)
@@ -166,6 +193,7 @@ Domain Reload Profiling: 509ms
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - Loaded All Assemblies, in  0.543 seconds
 Refreshing native plugins compatible for Editor in 4.34 ms, found 3 plugins.
 Native extension for WindowsStandalone target not found
@@ -174,6 +202,8 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling: 1114ms
 	BeginReloadAssembly (124ms)
 =======
+=======
+>>>>>>> Stashed changes
 - Loaded All Assemblies, in  0.574 seconds
 Refreshing native plugins compatible for Editor in 4.40 ms, found 3 plugins.
 Native extension for WindowsStandalone target not found
@@ -181,11 +211,15 @@ Mono: successfully reloaded assembly
 - Finished resetting the current domain, in  0.573 seconds
 Domain Reload Profiling: 1143ms
 	BeginReloadAssembly (128ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (4ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 		CreateAndSetChildDomain (18ms)
 	RebuildCommonClasses (25ms)
@@ -211,6 +245,8 @@ Domain Reload Profiling: 1143ms
 			ProcessInitializeOnLoadAttributes (316ms)
 			ProcessInitializeOnLoadMethodAttributes (57ms)
 =======
+=======
+>>>>>>> Stashed changes
 		CreateAndSetChildDomain (20ms)
 	RebuildCommonClasses (26ms)
 	RebuildNativeTypeToScriptingClass (8ms)
@@ -234,11 +270,15 @@ Domain Reload Profiling: 1143ms
 			BeforeProcessingInitializeOnLoad (65ms)
 			ProcessInitializeOnLoadAttributes (316ms)
 			ProcessInitializeOnLoadMethodAttributes (53ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 			AfterProcessingInitializeOnLoad (9ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (5ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
 Refreshing native plugins compatible for Editor in 4.16 ms, found 3 plugins.
@@ -248,6 +288,8 @@ Unloading 66 unused Assets / (352.6 KB). Loaded Objects now: 5505.
 Memory consumption went from 212.3 MB to 211.9 MB.
 Total: 2.877900 ms (FindLiveObjects: 0.322800 ms CreateObjectMapping: 0.128300 ms MarkObjects: 2.239800 ms  DeleteObjects: 0.186400 ms)
 =======
+=======
+>>>>>>> Stashed changes
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
 Refreshing native plugins compatible for Editor in 4.78 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
@@ -255,6 +297,9 @@ Unloading 5037 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 66 unused Assets / (350.6 KB). Loaded Objects now: 5501.
 Memory consumption went from 211.7 MB to 211.4 MB.
 Total: 3.673600 ms (FindLiveObjects: 0.414300 ms CreateObjectMapping: 0.353200 ms MarkObjects: 2.709400 ms  DeleteObjects: 0.195800 ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 AssetImportParameters requested are different than current active one (requested -> active):
@@ -272,6 +317,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   Time since last request: 465327.005226 seconds.
   path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Floors/Dungeon-1/Dungeon-1-L0-V2.prefab
@@ -357,6 +403,8 @@ AssetImportWorker is now disconnected from the server
 Process exiting
 Exiting without the bug reporter. Application will terminate with return code 0
 =======
+=======
+>>>>>>> Stashed changes
   Time since last request: 250631.295752 seconds.
   path: Assets/Models/Materials/Images/Metal-Spec.jpg
   artifactKey: Guid(eff9318402d618840836e04912280c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -487,4 +535,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

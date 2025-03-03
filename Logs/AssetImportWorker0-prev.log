@@ -16,7 +16,11 @@ C:/Users/Lola/Desktop/Videojuegos/PracticasVideojuegos
 Logs/AssetImportWorker0.log
 -srvPort
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 53161
+=======
+51541
+>>>>>>> Stashed changes
 =======
 51541
 >>>>>>> Stashed changes
@@ -54,6 +58,7 @@ C:/Users/Lola/Desktop/Videojuegos/PracticasVideojuegos
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Player connection [26452] Host "[IP] 10.82.44.156 [Port] 0 [Flags] 2 [Guid] 645227456 [EditorId] 645227456 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-2VN0TS3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
 Player connection [26452] Host "[IP] 10.82.44.156 [Port] 0 [Flags] 2 [Guid] 645227456 [EditorId] 645227456 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-2VN0TS3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
@@ -61,12 +66,17 @@ Player connection [26452] Host "[IP] 10.82.44.156 [Port] 0 [Flags] 2 [Guid] 6452
 [Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
 Refreshing native plugins compatible for Editor in 11.02 ms, found 3 plugins.
 =======
+=======
+>>>>>>> Stashed changes
 Player connection [28760] Host "[IP] 10.82.172.250 [Port] 0 [Flags] 2 [Guid] 2393122005 [EditorId] 2393122005 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-2VN0TS3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
 Player connection [28760] Host "[IP] 10.82.172.250 [Port] 0 [Flags] 2 [Guid] 2393122005 [EditorId] 2393122005 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-2VN0TS3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
 Refreshing native plugins compatible for Editor in 824.87 ms, found 3 plugins.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.16f1 (d2c21f0ef2f1)
@@ -84,6 +94,7 @@ Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Manage
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/etc'
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56536
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -96,6 +107,8 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling: 579ms
 	BeginReloadAssembly (101ms)
 =======
+=======
+>>>>>>> Stashed changes
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56028
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -107,12 +120,16 @@ Mono: successfully reloaded assembly
 - Finished resetting the current domain, in  0.393 seconds
 Domain Reload Profiling: 5295ms
 	BeginReloadAssembly (4293ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 	RebuildCommonClasses (29ms)
 	RebuildNativeTypeToScriptingClass (8ms)
@@ -137,6 +154,8 @@ Domain Reload Profiling: 5295ms
 			ProcessInitializeOnLoadAttributes (145ms)
 			ProcessInitializeOnLoadMethodAttributes (45ms)
 =======
+=======
+>>>>>>> Stashed changes
 	RebuildCommonClasses (52ms)
 	RebuildNativeTypeToScriptingClass (23ms)
 	initialDomainReloadingComplete (116ms)
@@ -159,6 +178,9 @@ Domain Reload Profiling: 5295ms
 			BeforeProcessingInitializeOnLoad (3ms)
 			ProcessInitializeOnLoadAttributes (206ms)
 			ProcessInitializeOnLoadMethodAttributes (60ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
@@ -167,6 +189,7 @@ Domain Reload Profiling: 5295ms
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 - Loaded All Assemblies, in  0.645 seconds
 Refreshing native plugins compatible for Editor in 4.47 ms, found 3 plugins.
@@ -214,6 +237,8 @@ Unloading 66 unused Assets / (350.9 KB). Loaded Objects now: 5503.
 Memory consumption went from 211.9 MB to 211.6 MB.
 Total: 4.035700 ms (FindLiveObjects: 0.505800 ms CreateObjectMapping: 0.157900 ms MarkObjects: 3.155500 ms  DeleteObjects: 0.214700 ms)
 =======
+=======
+>>>>>>> Stashed changes
 - Loaded All Assemblies, in  3.136 seconds
 Refreshing native plugins compatible for Editor in 9.65 ms, found 3 plugins.
 Native extension for WindowsStandalone target not found
@@ -259,6 +284,9 @@ Unloading 5036 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 66 unused Assets / (350.2 KB). Loaded Objects now: 5494.
 Memory consumption went from 210.6 MB to 210.2 MB.
 Total: 4.158400 ms (FindLiveObjects: 0.410000 ms CreateObjectMapping: 0.357900 ms MarkObjects: 3.147300 ms  DeleteObjects: 0.242500 ms)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 AssetImportParameters requested are different than current active one (requested -> active):
@@ -277,11 +305,14 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Import Request.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   Time since last request: 464893.909741 seconds.
   path: Assets/Scenes/inside.unity
   artifactKey: Guid(ee9328a4fd1c2a84d888e40f6e3b22a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/inside.unity using Guid(ee9328a4fd1c2a84d888e40f6e3b22a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '116a1f7cf70ef418a550ee0efb31df57') in 0.002585 seconds
 =======
+=======
+>>>>>>> Stashed changes
   Time since last request: 244064.513855 seconds.
   path: Assets/Scenes/pr.unity
   artifactKey: Guid(59066eb0775bab54fa416b61b701c00a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -356,56 +387,78 @@ Received Import Request.
   path: Assets/Scripts
   artifactKey: Guid(3c2585d1e7ed5b0458a81e40822da7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts using Guid(3c2585d1e7ed5b0458a81e40822da7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '131e0a334bd8b4c1ca89cc1877426fcc') in 0.027534 seconds
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   Time since last request: 37.894026 seconds.
   path: Assets/Enviroment
   artifactKey: Guid(b8615d8e28b726641a57fb319cb7ea79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Enviroment using Guid(b8615d8e28b726641a57fb319cb7ea79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '916f6689db3a99ae47f28ad9c66a1070') in 0.000491 seconds
 =======
+=======
+>>>>>>> Stashed changes
   Time since last request: 6.960360 seconds.
   path: Assets/Scripts/ObstacleGenerator.cs
   artifactKey: Guid(7cae61891c42a764e928f0165e5103db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts/ObstacleGenerator.cs using Guid(7cae61891c42a764e928f0165e5103db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d1562b0e85bb9928dc1e4e006bef83a') in 0.000662 seconds
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   Time since last request: 2.615480 seconds.
   path: Assets/Enviroment/Simple Water Shader
   artifactKey: Guid(8cbdf112a9c3e6744a8d978a75484afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Enviroment/Simple Water Shader using Guid(8cbdf112a9c3e6744a8d978a75484afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eb52590708626808abae92743629460') in 0.000567 seconds
 =======
+=======
+>>>>>>> Stashed changes
   Time since last request: 88.325813 seconds.
   path: Assets/Scripts/PlayeTagsCheck.cs
   artifactKey: Guid(ab4cd97beb140614b8246867b8353527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts/PlayeTagsCheck.cs using Guid(ab4cd97beb140614b8246867b8353527) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4f2d0f0b61733c644ef805f9b10f19e') in 0.000506 seconds
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   Time since last request: 1.247557 seconds.
   path: Assets/Enviroment/Simple Water Shader/Prefabs
   artifactKey: Guid(659a758b0bea88342a8f7d3812ab9415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Enviroment/Simple Water Shader/Prefabs using Guid(659a758b0bea88342a8f7d3812ab9415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c21ce98177d73e183d58215626ea96e3') in 0.000653 seconds
 =======
+=======
+>>>>>>> Stashed changes
   Time since last request: 13.153479 seconds.
   path: Assets/Scripts/UIManager.cs
   artifactKey: Guid(52b6caf52bfe70d4789fb39ab9192a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts/UIManager.cs using Guid(52b6caf52bfe70d4789fb39ab9192a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c7f4afda6c14aa22fcd90d6ba93ea05') in 0.000506 seconds
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   Time since last request: 0.094160 seconds.
   path: Assets/Enviroment/Simple Water Shader/Prefabs/WaterBlock_50m.prefab
@@ -420,51 +473,71 @@ Received Import Request.
   artifactKey: Guid(bcf25ca3eb3092d48b40134bd0c5cc99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Enviroment/ObstacleCoursePack using Guid(bcf25ca3eb3092d48b40134bd0c5cc99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69a0d4c07356d8db4b8da4e2eebc59c2') in 0.000735 seconds
 =======
+=======
+>>>>>>> Stashed changes
   Time since last request: 199.072190 seconds.
   path: Assets/Scripts/Rotation.cs
   artifactKey: Guid(150b747a3859f2a4fa15f418bbde447f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts/Rotation.cs using Guid(150b747a3859f2a4fa15f418bbde447f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd36a751fec4b65e7394ea80c46a85d07') in 0.000584 seconds
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   Time since last request: 2.367078 seconds.
   path: Assets/Enviroment/Grass by Daniel Ilett
   artifactKey: Guid(7eb1f13f86b29184ca42ab26e2bf95cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Enviroment/Grass by Daniel Ilett using Guid(7eb1f13f86b29184ca42ab26e2bf95cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fee56c0bd7e003e5b040034dfce31c0') in 0.000662 seconds
 =======
+=======
+>>>>>>> Stashed changes
   Time since last request: 146.046650 seconds.
   path: Assets/Prefabs
   artifactKey: Guid(6dd6a871db49d8b489be4434071d6ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs using Guid(6dd6a871db49d8b489be4434071d6ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '757911bc4566ed5aa7da1681ec00593d') in 0.000598 seconds
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   Time since last request: 0.543879 seconds.
   path: Assets/Enviroment/LB3D
   artifactKey: Guid(75df70f7b83be2a41b1bbbbffccd22aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Enviroment/LB3D using Guid(75df70f7b83be2a41b1bbbbffccd22aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '044e52c77db5f371cd176951b908a1fc') in 0.000596 seconds
 =======
+=======
+>>>>>>> Stashed changes
   Time since last request: 1.464527 seconds.
   path: Assets/Prefabs/Player
   artifactKey: Guid(4726d489104690b4d8b530d62da48e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs/Player using Guid(4726d489104690b4d8b530d62da48e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cddce2479efc8443c660c5e6580aad3') in 0.000559 seconds
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   Time since last request: 1.247074 seconds.
   path: Assets/Enviroment/LB3D/RandomBlocks
   artifactKey: Guid(dc514e22c34273943831452561eda44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Enviroment/LB3D/RandomBlocks using Guid(dc514e22c34273943831452561eda44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e4898bcfaa72b4fb6d3cf6996cdc9a4') in 0.000603 seconds
 =======
+=======
+>>>>>>> Stashed changes
   Time since last request: 0.087759 seconds.
   path: Assets/Prefabs/Player/3rd Person Player.prefab
   artifactKey: Guid(c663ba5d54ed12b4f99b5573255611f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -477,17 +550,23 @@ Received Import Request.
   path: Assets/Prefabs/Obstaculos
   artifactKey: Guid(14d356f944e0e924392654d851f1b332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs/Obstaculos using Guid(14d356f944e0e924392654d851f1b332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '542a20d34de0c4473ccbe04bb521b925') in 0.000784 seconds
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   Time since last request: 4.512205 seconds.
   path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs
   artifactKey: Guid(75c5447f3475efe4aafe404afc024a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs using Guid(75c5447f3475efe4aafe404afc024a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fc2a97c9adb83005b536ddffdf4f270') in 0.006501 seconds
 =======
+=======
+>>>>>>> Stashed changes
   Time since last request: 0.055425 seconds.
   path: Assets/Prefabs/Obstaculos/MovableWall.prefab
   artifactKey: Guid(6b993a6b009bd634e95172b4e27db944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -500,11 +579,15 @@ Received Import Request.
   path: Assets/Settings
   artifactKey: Guid(709f11a7f3c4041caa4ef136ea32d874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Settings using Guid(709f11a7f3c4041caa4ef136ea32d874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1590fa22b40341c212b8176897fa41ce') in 0.000637 seconds
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   Time since last request: 1.154072 seconds.
   path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks
@@ -793,6 +876,8 @@ Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Default/Block
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 12
 =======
+=======
+>>>>>>> Stashed changes
   Time since last request: 0.071014 seconds.
   path: Assets/Settings/New Terrain.asset
   artifactKey: Guid(588bbd362b15fb34db9b71cc16e0edb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -807,6 +892,9 @@ Received Import Request.
 Start importing Assets/Settings/URP-Balanced-Renderer.asset using Guid(e634585d5c4544dd297acaee93dc2beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '126ccead494666ed9096bef536e11515') in 0.004536 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: La operación de E/S se anuló por una salida de subproceso o por una solicitud de aplicación.
