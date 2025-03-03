@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2022.3/staging' branch; Version is '2022.3.16f1 (d2c21f0ef2f1) revision 13812255'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'es' Physical Memory: 16087 MB
+OS: 'Windows 10  (10.0.19044) 64bit EnterpriseS' Language: 'es' Physical Memory: 14188 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
@@ -11,13 +11,13 @@ C:\Program Files\Unity\Hub\Editor\2022.3.16f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/JuanC/Music/CURSO_2425/Videojuegos/PracticasVideojuegos
+C:/Users/Lola/Desktop/Videojuegos/PracticasVideojuegos
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-59461
-Successfully changed project path to: C:/Users/JuanC/Music/CURSO_2425/Videojuegos/PracticasVideojuegos
-C:/Users/JuanC/Music/CURSO_2425/Videojuegos/PracticasVideojuegos
+53161
+Successfully changed project path to: C:/Users/Lola/Desktop/Videojuegos/PracticasVideojuegos
+C:/Users/Lola/Desktop/Videojuegos/PracticasVideojuegos
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -49,65 +49,65 @@ C:/Users/JuanC/Music/CURSO_2425/Videojuegos/PracticasVideojuegos
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [1520] Host "[IP] 192.168.1.89 [Port] 0 [Flags] 2 [Guid] 206395726 [EditorId] 206395726 [Version] 1048832 [Id] WindowsEditor(7,Muramasa) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [26452] Host "[IP] 10.82.44.156 [Port] 0 [Flags] 2 [Guid] 645227456 [EditorId] 645227456 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-2VN0TS3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [1520] Host "[IP] 192.168.1.89 [Port] 0 [Flags] 2 [Guid] 206395726 [EditorId] 206395726 [Version] 1048832 [Id] WindowsEditor(7,Muramasa) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [26452] Host "[IP] 10.82.44.156 [Port] 0 [Flags] 2 [Guid] 645227456 [EditorId] 645227456 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-2VN0TS3) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
-Refreshing native plugins compatible for Editor in 19.60 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 11.02 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.16f1 (d2c21f0ef2f1)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/JuanC/Music/CURSO_2425/Videojuegos/PracticasVideojuegos/Assets
+[Subsystems] Discovering subsystems at path C:/Users/Lola/Desktop/Videojuegos/PracticasVideojuegos/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28a0)
+    Renderer: NVIDIA GeForce RTX 3050 Laptop GPU (ID=0x25a2)
     Vendor:   NVIDIA
-    VRAM:     7957 MB
-    Driver:   32.0.15.6614
+    VRAM:     3965 MB
+    Driver:   32.0.15.6070
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56428
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56536
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.005348 seconds.
-- Loaded All Assemblies, in  0.343 seconds
+Registered in 0.010156 seconds.
+- Loaded All Assemblies, in  0.318 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.269 seconds
-Domain Reload Profiling: 611ms
-	BeginReloadAssembly (106ms)
+- Finished resetting the current domain, in  0.263 seconds
+Domain Reload Profiling: 579ms
+	BeginReloadAssembly (101ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (38ms)
-	RebuildNativeTypeToScriptingClass (11ms)
-	initialDomainReloadingComplete (54ms)
-	LoadAllAssembliesAndSetupDomain (132ms)
-		LoadAssemblies (104ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (60ms)
+	LoadAllAssembliesAndSetupDomain (116ms)
+		LoadAssemblies (99ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (130ms)
-			TypeCache.Refresh (129ms)
-				TypeCache.ScanAssembly (116ms)
+		AnalyzeDomain (115ms)
+			TypeCache.Refresh (113ms)
+				TypeCache.ScanAssembly (102ms)
 			ScanForSourceGeneratedMonoScriptInfo (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (269ms)
+	FinalizeReload (263ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
 		SetupLoadedEditorAssemblies (210ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (9ms)
+			InitializePlatformSupportModulesInManaged (10ms)
 			SetLoadedEditorAssemblies (8ms)
 			RefreshPlugins (0ms)
 			BeforeProcessingInitializeOnLoad (2ms)
-			ProcessInitializeOnLoadAttributes (144ms)
-			ProcessInitializeOnLoadMethodAttributes (47ms)
+			ProcessInitializeOnLoadAttributes (145ms)
+			ProcessInitializeOnLoadMethodAttributes (45ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -115,126 +115,54 @@ Domain Reload Profiling: 611ms
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.695 seconds
-Refreshing native plugins compatible for Editor in 3.80 ms, found 3 plugins.
+- Loaded All Assemblies, in  0.645 seconds
+Refreshing native plugins compatible for Editor in 4.47 ms, found 3 plugins.
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.765 seconds
-Domain Reload Profiling: 1458ms
-	BeginReloadAssembly (160ms)
+- Finished resetting the current domain, in  0.648 seconds
+Domain Reload Profiling: 1289ms
+	BeginReloadAssembly (143ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (6ms)
+		DisableScriptedObjects (5ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (19ms)
-	RebuildCommonClasses (39ms)
+		CreateAndSetChildDomain (23ms)
+	RebuildCommonClasses (29ms)
 	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (43ms)
-	LoadAllAssembliesAndSetupDomain (441ms)
-		LoadAssemblies (336ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (416ms)
+		LoadAssemblies (332ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (206ms)
-			TypeCache.Refresh (173ms)
-				TypeCache.ScanAssembly (157ms)
-			ScanForSourceGeneratedMonoScriptInfo (22ms)
-			ResolveRequiredComponents (10ms)
-	FinalizeReload (765ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (595ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (5ms)
-			SetLoadedEditorAssemblies (5ms)
-			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (74ms)
-			ProcessInitializeOnLoadAttributes (423ms)
-			ProcessInitializeOnLoadMethodAttributes (81ms)
-			AfterProcessingInitializeOnLoad (6ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (9ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
-Refreshing native plugins compatible for Editor in 3.13 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 5021 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 66 unused Assets / (352.7 KB). Loaded Objects now: 5489.
-Memory consumption went from 208.6 MB to 208.3 MB.
-Total: 3.272700 ms (FindLiveObjects: 0.302400 ms CreateObjectMapping: 0.176000 ms MarkObjects: 2.601000 ms  DeleteObjects: 0.191800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:CustomObjectIndexerAttribute: 4d1d7186bcbbfe361de5f0ad951e585c -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
-  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 521168.529482 seconds.
-  path: Assets/New Terrain.asset
-  artifactKey: Guid(588bbd362b15fb34db9b71cc16e0edb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Terrain.asset using Guid(588bbd362b15fb34db9b71cc16e0edb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '428fefe820ebead37c8ec7cf42d2a078') in 0.134924 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 176
-========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.462 seconds
-Refreshing native plugins compatible for Editor in 3.06 ms, found 3 plugins.
-Native extension for WindowsStandalone target not found
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  2.425 seconds
-Domain Reload Profiling: 2885ms
-	BeginReloadAssembly (151ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (3ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (37ms)
-	RebuildCommonClasses (33ms)
-	RebuildNativeTypeToScriptingClass (11ms)
-	initialDomainReloadingComplete (26ms)
-	LoadAllAssembliesAndSetupDomain (238ms)
-		LoadAssemblies (282ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (37ms)
-			TypeCache.Refresh (8ms)
-				TypeCache.ScanAssembly (0ms)
+		AnalyzeDomain (167ms)
+			TypeCache.Refresh (139ms)
+				TypeCache.ScanAssembly (124ms)
 			ScanForSourceGeneratedMonoScriptInfo (18ms)
-			ResolveRequiredComponents (10ms)
-	FinalizeReload (2425ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (648ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (483ms)
+		SetupLoadedEditorAssemblies (510ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (6ms)
-			SetLoadedEditorAssemblies (5ms)
+			SetLoadedEditorAssemblies (3ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (71ms)
-			ProcessInitializeOnLoadAttributes (341ms)
-			ProcessInitializeOnLoadMethodAttributes (55ms)
-			AfterProcessingInitializeOnLoad (6ms)
+			BeforeProcessingInitializeOnLoad (70ms)
+			ProcessInitializeOnLoadAttributes (362ms)
+			ProcessInitializeOnLoadMethodAttributes (59ms)
+			AfterProcessingInitializeOnLoad (10ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (15ms)
-Refreshing native plugins compatible for Editor in 2.80 ms, found 3 plugins.
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 5.05 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4863 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 41 unused Assets / (318.6 KB). Loaded Objects now: 5499.
-Memory consumption went from 186.0 MB to 185.7 MB.
-Total: 3.124600 ms (FindLiveObjects: 0.276300 ms CreateObjectMapping: 0.151900 ms MarkObjects: 2.604200 ms  DeleteObjects: 0.091000 ms)
+Unloading 5037 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 66 unused Assets / (350.9 KB). Loaded Objects now: 5503.
+Memory consumption went from 211.9 MB to 211.6 MB.
+Total: 4.035700 ms (FindLiveObjects: 0.505800 ms CreateObjectMapping: 0.157900 ms MarkObjects: 3.155500 ms  DeleteObjects: 0.214700 ms)
 
-Prepare: number of updated asset objects reloaded= 0
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:CustomObjectIndexerAttribute: 4d1d7186bcbbfe361de5f0ad951e585c -> 
@@ -248,108 +176,372 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 150.627047 seconds.
-  path: Assets/Enviroment/FantasyEnvironments
-  artifactKey: Guid(8fc0413669b990a41b107169cb50a10b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroment/FantasyEnvironments using Guid(8fc0413669b990a41b107169cb50a10b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '230f19033ee50fe2a8f99925ca7e7429') in 0.008486 seconds
+  Time since last request: 464893.909741 seconds.
+  path: Assets/Scenes/inside.unity
+  artifactKey: Guid(ee9328a4fd1c2a84d888e40f6e3b22a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/inside.unity using Guid(ee9328a4fd1c2a84d888e40f6e3b22a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '116a1f7cf70ef418a550ee0efb31df57') in 0.002585 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 2.224524 seconds.
-  path: Assets/Enviroment/FantasyEnvironments/Environments
-  artifactKey: Guid(b65037222b1418248ad5e3d35bf81d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroment/FantasyEnvironments/Environments using Guid(b65037222b1418248ad5e3d35bf81d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13e36396f0e3d57a8e61f46fd63b523e') in 0.000689 seconds
+  Time since last request: 37.894026 seconds.
+  path: Assets/Enviroment
+  artifactKey: Guid(b8615d8e28b726641a57fb319cb7ea79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment using Guid(b8615d8e28b726641a57fb319cb7ea79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '916f6689db3a99ae47f28ad9c66a1070') in 0.000491 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 0.042836 seconds.
-  path: Assets/Enviroment/FantasyEnvironments/Environments/Terrain 1.asset
-  artifactKey: Guid(da9b55dbdaa1b884a93ae3a0ead6902f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroment/FantasyEnvironments/Environments/Terrain 1.asset using Guid(da9b55dbdaa1b884a93ae3a0ead6902f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd39bb5a11e84e7ac55492217cc5c6a21') in 0.182756 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 316
-========================================================================
-Received Import Request.
-  Time since last request: 2.243910 seconds.
-  path: Assets/Enviroment/FantasyEnvironments/Environments/Materials
-  artifactKey: Guid(9ee4b6a4cc4a83944b31251a7c133061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroment/FantasyEnvironments/Environments/Materials using Guid(9ee4b6a4cc4a83944b31251a7c133061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a1df43a06c5f9f4583d2376c0fec394') in 0.001080 seconds
+  Time since last request: 2.615480 seconds.
+  path: Assets/Enviroment/Simple Water Shader
+  artifactKey: Guid(8cbdf112a9c3e6744a8d978a75484afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/Simple Water Shader using Guid(8cbdf112a9c3e6744a8d978a75484afe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eb52590708626808abae92743629460') in 0.000567 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 0.030649 seconds.
-  path: Assets/Enviroment/FantasyEnvironments/Environments/Materials/Plant.mat
-  artifactKey: Guid(7805f02cde847fa488989988fbc3d7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroment/FantasyEnvironments/Environments/Materials/Plant.mat using Guid(7805f02cde847fa488989988fbc3d7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f1a3ff4811f0fbba7128cd5737fd80c') in 0.346152 seconds
+  Time since last request: 1.247557 seconds.
+  path: Assets/Enviroment/Simple Water Shader/Prefabs
+  artifactKey: Guid(659a758b0bea88342a8f7d3812ab9415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/Simple Water Shader/Prefabs using Guid(659a758b0bea88342a8f7d3812ab9415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c21ce98177d73e183d58215626ea96e3') in 0.000653 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 22
+Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Enviroment/FantasyEnvironments/Environments/Materials/Rock3.mat
-  artifactKey: Guid(ba1a85e7c777c594a838a1801607f787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroment/FantasyEnvironments/Environments/Materials/Rock3.mat using Guid(ba1a85e7c777c594a838a1801607f787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d0d8a7482937522a78b026d8b0f89ea') in 0.014199 seconds
+  Time since last request: 0.094160 seconds.
+  path: Assets/Enviroment/Simple Water Shader/Prefabs/WaterBlock_50m.prefab
+  artifactKey: Guid(7097ba7ba649e1f41bba232312bdcbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/Simple Water Shader/Prefabs/WaterBlock_50m.prefab using Guid(7097ba7ba649e1f41bba232312bdcbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '670a9af055ebc2a9eae11838b0926648') in 0.256188 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
+Number of asset objects unloaded after import = 13
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/Enviroment/FantasyEnvironments/Environments/Materials/Stone.mat
-  artifactKey: Guid(8918331320feeb1428adceb85606a3a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroment/FantasyEnvironments/Environments/Materials/Stone.mat using Guid(8918331320feeb1428adceb85606a3a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ddfa8f5aab217346468e1e86b95d145') in 0.013464 seconds
+  Time since last request: 3.337523 seconds.
+  path: Assets/Enviroment/ObstacleCoursePack
+  artifactKey: Guid(bcf25ca3eb3092d48b40134bd0c5cc99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/ObstacleCoursePack using Guid(bcf25ca3eb3092d48b40134bd0c5cc99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69a0d4c07356d8db4b8da4e2eebc59c2') in 0.000735 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
+Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Enviroment/FantasyEnvironments/Environments/Materials/Rock2.mat
-  artifactKey: Guid(be28608a412284745bf8a1052a883b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroment/FantasyEnvironments/Environments/Materials/Rock2.mat using Guid(be28608a412284745bf8a1052a883b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63bf4c802d11e4fd856dd63eced3ac14') in 0.017360 seconds
+  Time since last request: 2.367078 seconds.
+  path: Assets/Enviroment/Grass by Daniel Ilett
+  artifactKey: Guid(7eb1f13f86b29184ca42ab26e2bf95cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/Grass by Daniel Ilett using Guid(7eb1f13f86b29184ca42ab26e2bf95cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fee56c0bd7e003e5b040034dfce31c0') in 0.000662 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
+Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 47.593076 seconds.
-  path: Assets/Enviroment/FantasyEnvironments/Environments/Textures/ground_road.png
-  artifactKey: Guid(30e675638d75a9146afc3018218935cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroment/FantasyEnvironments/Environments/Textures/ground_road.png using Guid(30e675638d75a9146afc3018218935cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c9bce66b35e670ab3f561194bf5cae2') in 0.063479 seconds
+  Time since last request: 0.543879 seconds.
+  path: Assets/Enviroment/LB3D
+  artifactKey: Guid(75df70f7b83be2a41b1bbbbffccd22aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D using Guid(75df70f7b83be2a41b1bbbbffccd22aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '044e52c77db5f371cd176951b908a1fc') in 0.000596 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
+Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000082 seconds.
-  path: Assets/Enviroment/FantasyEnvironments/Environments/Textures/ground_stones.png
-  artifactKey: Guid(cda6ec74e3a3f3f49840fe742aa14b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroment/FantasyEnvironments/Environments/Textures/ground_stones.png using Guid(cda6ec74e3a3f3f49840fe742aa14b01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fe2e359cfdeddac54fe1894a4d19cbb') in 0.022800 seconds
+  Time since last request: 1.247074 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks
+  artifactKey: Guid(dc514e22c34273943831452561eda44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks using Guid(dc514e22c34273943831452561eda44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e4898bcfaa72b4fb6d3cf6996cdc9a4') in 0.000603 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
+Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/Enviroment/FantasyEnvironments/Environments/Textures/Stone.png
-  artifactKey: Guid(b629e2cbf9a8f7441a8f54c8df3e729c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroment/FantasyEnvironments/Environments/Textures/Stone.png using Guid(b629e2cbf9a8f7441a8f54c8df3e729c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb11641c2c18565380316ff1db524c74') in 0.018364 seconds
+  Time since last request: 4.512205 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs
+  artifactKey: Guid(75c5447f3475efe4aafe404afc024a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs using Guid(75c5447f3475efe4aafe404afc024a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fc2a97c9adb83005b536ddffdf4f270') in 0.006501 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
+Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 21.045953 seconds.
-  path: Assets/Enviroment/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Textures/Birch_leaves.tga
-  artifactKey: Guid(ee8680ca49b912746958dd16c5d23051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enviroment/FantasyEnvironments/Environments/Ambient-Occlusion-Trees/Textures/Birch_leaves.tga using Guid(ee8680ca49b912746958dd16c5d23051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c45cf4163c8c3aec6d2e16375cb53380') in 0.021616 seconds
+  Time since last request: 1.154072 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks
+  artifactKey: Guid(aa50407920e5bb24498086ffa03eb6bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks using Guid(aa50407920e5bb24498086ffa03eb6bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31cde54a1008ea68c6db1c2323a6afe3') in 0.000647 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
+Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 15.724929 seconds.
-  path: Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/MudRockyAlbedoSpecular.bmp
-  artifactKey: Guid(ef5c51cfa2ce46043a41a376b560c525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/MudRockyAlbedoSpecular.bmp using Guid(ef5c51cfa2ce46043a41a376b560c525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6e00e48a5c0717a9b3552dcbd78443c') in 0.020617 seconds
+  Time since last request: 2.399374 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-1
+  artifactKey: Guid(eb3539a7207bc2e4f8557ac229156965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-1 using Guid(eb3539a7207bc2e4f8557ac229156965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd42a2a238cecdfe2eb91e1099e618ce') in 0.006386 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.961665 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-1/L1
+  artifactKey: Guid(3f22d777c108ed44794573a64ef8a847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-1/L1 using Guid(3f22d777c108ed44794573a64ef8a847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd42bdbbc7cf89510a90b7c50d76dad5') in 0.000563 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.070803 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-1/L1/Dungeon-L1-V1.prefab
+  artifactKey: Guid(251456f4e34784c42a3bd9767fb3556b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-1/L1/Dungeon-L1-V1.prefab using Guid(251456f4e34784c42a3bd9767fb3556b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '196e4d37c56b074cb10829b4b68ceecb') in 0.100435 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 15.716544 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-1/L2
+  artifactKey: Guid(94dcc14ab2451fd469eef856a055b49e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-1/L2 using Guid(94dcc14ab2451fd469eef856a055b49e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34e92b852fe3f40a892d03fab4196ba5') in 0.000592 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.221614 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-1/L2/Dungeon-L2-V1.prefab
+  artifactKey: Guid(77b88a865b1e89140955b029867b2880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-1/L2/Dungeon-L2-V1.prefab using Guid(77b88a865b1e89140955b029867b2880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '615cc1c1712591fe609bcef7586b97f3') in 0.053699 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 2.068943 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Floors
+  artifactKey: Guid(40670cdfae365cd4e963bebe8a0b5a8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Floors using Guid(40670cdfae365cd4e963bebe8a0b5a8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39e8cd8d5f0145a935a4c923cdce485c') in 0.000546 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.719542 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-4
+  artifactKey: Guid(1e59373f5109a9a4081f4be09a6c410a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-4 using Guid(1e59373f5109a9a4081f4be09a6c410a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a826cd19763f3338c95aedbc695028') in 0.000555 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.007814 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-4/L1
+  artifactKey: Guid(42ad675996460f541b805d74c4daab77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-4/L1 using Guid(42ad675996460f541b805d74c4daab77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2faa326ecb52d520f71dae9a8a6bb7e1') in 0.000629 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.062966 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-4/L1/Dungeon-4-L1-V1.prefab
+  artifactKey: Guid(bb744ccff3a7a4d499cce543bbe8495c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-4/L1/Dungeon-4-L1-V1.prefab using Guid(bb744ccff3a7a4d499cce543bbe8495c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16efbb99064e130e7399babd59dd75e8') in 0.021988 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 2.243267 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-4/L2
+  artifactKey: Guid(cb8130b6612b5a7449276689e6c8ed0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-4/L2 using Guid(cb8130b6612b5a7449276689e6c8ed0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd4292adee49d41884befbaa93afc65a') in 0.000667 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.198883 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-4/L2/Dungeon-4-L2-V1.prefab
+  artifactKey: Guid(87e95586677066b4396c719c22341c1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-4/L2/Dungeon-4-L2-V1.prefab using Guid(87e95586677066b4396c719c22341c1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ca145c0a6b3250a4ca01db368335ec4') in 0.057297 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 1.583298 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-4/L3
+  artifactKey: Guid(6edcf4b336fea044cb97baee55e59416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-4/L3 using Guid(6edcf4b336fea044cb97baee55e59416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02c9dc24bb2411bdec3a7df19dbc699c') in 0.000559 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.076592 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-4/L3/Dungeon-4-L3-V1.prefab
+  artifactKey: Guid(2d812ec989e17f842bd8f5a0c2207118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-4/L3/Dungeon-4-L3-V1.prefab using Guid(2d812ec989e17f842bd8f5a0c2207118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c26dffc959e8e801da169dbfdcfa3ae') in 0.056619 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 20.074170 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-2
+  artifactKey: Guid(6b3c0910a9f164248b8139b3b500dca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-2 using Guid(6b3c0910a9f164248b8139b3b500dca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '419c7d68fcef9cd8785c27861399ccb2') in 0.000541 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.790966 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-2/L1
+  artifactKey: Guid(32d1fd465277a1c4badf30d37826720d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-2/L1 using Guid(32d1fd465277a1c4badf30d37826720d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '773ef0b21360fa3b43a97ff9f76d386e') in 0.000598 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.079512 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-2/L1/Dungeon-2-L1-V1.prefab
+  artifactKey: Guid(da759bc2835e9e042a389946126fba05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-2/L1/Dungeon-2-L1-V1.prefab using Guid(da759bc2835e9e042a389946126fba05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaee296e36061c4c0a15bca66ea1abc1') in 0.056821 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 82.560485 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-3
+  artifactKey: Guid(29fda331aa39e814ba29db88f0293d20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-3 using Guid(29fda331aa39e814ba29db88f0293d20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1361422460e7d4b001b61d9e64ad4092') in 0.001179 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.040144 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-3/L1
+  artifactKey: Guid(29f35a5a0d3eacf4d9d925cd27352889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-3/L1 using Guid(29f35a5a0d3eacf4d9d925cd27352889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2669bd1f13b86a65bbb4df615ae4ba5f') in 0.000675 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.078167 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-3/L1/Dungeon-3-L1-V1.prefab
+  artifactKey: Guid(76558db7db8e95b43ae5303ce69d487d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-3/L1/Dungeon-3-L1-V1.prefab using Guid(76558db7db8e95b43ae5303ce69d487d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e18b62e951fa09ff512c157cb81e3d5') in 0.056223 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 2.472853 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-3/L2
+  artifactKey: Guid(72735fda98762b24abd8460d0e268a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-3/L2 using Guid(72735fda98762b24abd8460d0e268a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e53631e32292ce56a8183a5cb6d182c1') in 0.000703 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.068854 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-3/L2/Dungeon-3-L2-V1.prefab
+  artifactKey: Guid(0788e001d37450a44ba3f739deb8fb83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-3/L2/Dungeon-3-L2-V1.prefab using Guid(0788e001d37450a44ba3f739deb8fb83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeab7732502ef78fe682f6e1b08ed2ae') in 0.029754 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 3.293036 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-3/L3
+  artifactKey: Guid(e3dc5f2e12e17284796405449aad653a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-3/L3 using Guid(e3dc5f2e12e17284796405449aad653a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '528a2fd22c7012d2ba3a9377404da1d8') in 0.000598 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.084207 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-3/L3/Dungeon-3-L3-V1.prefab
+  artifactKey: Guid(82d505b921fcf1445b4508f4993a1797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Dungeon-3/L3/Dungeon-3-L3-V1.prefab using Guid(82d505b921fcf1445b4508f4993a1797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd4ba105a2feca467329c7e1e9a68bc') in 0.057284 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 2.836376 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/ManyVertical
+  artifactKey: Guid(478a2eb00367d0a40861c9d934eb2145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/ManyVertical using Guid(478a2eb00367d0a40861c9d934eb2145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9462043013c7158eea5c04b27cda588') in 0.000595 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.982282 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/ManyVertical/L1
+  artifactKey: Guid(64143bec1e59db04fae89e6576c52ab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/ManyVertical/L1 using Guid(64143bec1e59db04fae89e6576c52ab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '661ab9f745e4fe44004b61194bae012a') in 0.000543 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.078927 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/ManyVertical/L1/ManyVertical-L1-V1.prefab
+  artifactKey: Guid(8c47bfb87f5335549ab67df6fb3db223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/ManyVertical/L1/ManyVertical-L1-V1.prefab using Guid(8c47bfb87f5335549ab67df6fb3db223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e45c028e7befd1dea54f261fd2d75515') in 0.064966 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/ManyVertical/L1/ManyVertical-L1-V4.prefab
+  artifactKey: Guid(f0d344d47d7c1584e88d414c2b0fc4dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/ManyVertical/L1/ManyVertical-L1-V4.prefab using Guid(f0d344d47d7c1584e88d414c2b0fc4dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb63b15080ed52344ae9cd31abe14e88') in 0.068515 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/ManyVertical/L1/ManyVertical-L1-V3.prefab
+  artifactKey: Guid(139b083dcb36101438d839a7b320ebd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/ManyVertical/L1/ManyVertical-L1-V3.prefab using Guid(139b083dcb36101438d839a7b320ebd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61c2973da0e3573bfac3062895ab4513') in 0.055109 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/ManyVertical/L1/ManyVertical-L1-V5.prefab
+  artifactKey: Guid(f98ec2288d6584a4c99e60b486aa6c03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/ManyVertical/L1/ManyVertical-L1-V5.prefab using Guid(f98ec2288d6584a4c99e60b486aa6c03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd0997b07b54e4b78a20424664f009d1') in 0.064034 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 6.770700 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Default/Block-New/New-V2.prefab
+  artifactKey: Guid(b1cb9d0c045181d499d0ecc861b105d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Default/Block-New/New-V2.prefab using Guid(b1cb9d0c045181d499d0ecc861b105d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '243278d7e1b78c036467b4deb2eae662') in 0.051309 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Default/Block-New/New-V5.prefab
+  artifactKey: Guid(10de16d1851cdaf4499f251424586e3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Default/Block-New/New-V5.prefab using Guid(10de16d1851cdaf4499f251424586e3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e322e34b8b0a91aeb259d6c6a8f4470b') in 0.048862 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 22.563754 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Default/Block-Old-Mossy/Old-Mossy-V2.prefab
+  artifactKey: Guid(8b3b6862ef5a7c8448582a10cd586453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Default/Block-Old-Mossy/Old-Mossy-V2.prefab using Guid(8b3b6862ef5a7c8448582a10cd586453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bf13c9693661aabde314a2c16dac7c6') in 0.040373 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Default/Block-Old-Mossy/Old-Mossy-V8.prefab
+  artifactKey: Guid(5156e5d5765a12d429d53ef08ce30276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Default/Block-Old-Mossy/Old-Mossy-V8.prefab using Guid(5156e5d5765a12d429d53ef08ce30276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6671a21c87802807caccbfd98cc42d3') in 0.049790 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Default/Block-Old-Mossy/Old-Mossy-V10.prefab
+  artifactKey: Guid(4f4f60b28dcaca64b8394fa246c33d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Default/Block-Old-Mossy/Old-Mossy-V10.prefab using Guid(4f4f60b28dcaca64b8394fa246c33d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '494ffbe60eda2c453581574d4eea1a21') in 0.047677 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Default/Block-Old-Mossy/Old-Mossy-V5.prefab
+  artifactKey: Guid(e4700f2c8b8f75642b56a9c81bdddd2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Enviroment/LB3D/RandomBlocks/Prefabs/Blocks/Default/Block-Old-Mossy/Old-Mossy-V5.prefab using Guid(e4700f2c8b8f75642b56a9c81bdddd2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '096514049a03a2f6545aaa76173921a7') in 0.047769 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: La operación de E/S se anuló por una salida de subproceso o por una solicitud de aplicación.
 AssetImportWorker is now disconnected from the server
