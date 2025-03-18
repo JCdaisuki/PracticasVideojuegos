@@ -138,6 +138,7 @@
     <Compile Include="Assets\Settings\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs" />
     <Compile Include="Assets\Scripts\FirstPersonMovement.cs" />
     <Compile Include="Assets\Settings\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Scripts\Shooting.cs" />
     <Compile Include="Assets\Enviroment\ObstacleCoursePack\Scripts\Bounce.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Environment\Water\Water\Scripts\PlanarReflection.cs" />

@@ -25,6 +25,7 @@ public class EnemyController : MonoBehaviour
 
     public void Start()
     {
+        target = GameObject.FindGameObjectWithTag("Player");
         navMeshAgent = GetComponent<NavMeshAgent>();
 
         foreach (GameObject obj in FindObjectsOfType<GameObject>())
@@ -53,7 +54,13 @@ public class EnemyController : MonoBehaviour
         }
 
         SetNavDestination(target.transform.position);
-        transform.LookAt(target.transform);
+
+        Vector3 direction = target.transform.position - transform.position;
+        direction.y = 0; 
+        if (direction != Vector3.zero) 
+        {
+            transform.rotation = Quaternion.LookRotation(direction);
+        }
     }
 
     public void SetNavDestination(Vector3 destination)
