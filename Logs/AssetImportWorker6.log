@@ -1163,3 +1163,19 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 5602.502539 seconds.
+  path: Assets/Models/Gun/Materials/New Material.mat
+  artifactKey: Guid(d2a92dd38d3d5f14989db17f02d254e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Gun/Materials/New Material.mat using Guid(d2a92dd38d3d5f14989db17f02d254e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70758bc4b42cf71e49959daf75ab1ea6') in 0.655635 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 22
+========================================================================
+Received Import Request.
+  Time since last request: 38.127654 seconds.
+  path: Assets/Models/Gun/Materials/New Material.mat
+  artifactKey: Guid(d2a92dd38d3d5f14989db17f02d254e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Gun/Materials/New Material.mat using Guid(d2a92dd38d3d5f14989db17f02d254e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3af7fcd6d7a6208b3c3813129366dd1') in 0.693741 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
