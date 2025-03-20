@@ -93,6 +93,7 @@
     <Compile Include="Assets\Enviroment\ObstacleCoursePack\Controller\CameraManager.cs" />
     <Compile Include="Assets\Enviroment\Grass by Daniel Ilett\BotWGrass.cs" />
     <Compile Include="Assets\Enviroment\ObstacleCoursePack\Scripts\FallPlat.cs" />
+    <Compile Include="Assets\Scripts\EnemyGenerator.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Utility\DragRigidbody.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Utility\CurveControlledBob.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Cameras\Scripts\AbstractTargetFollower.cs" />
