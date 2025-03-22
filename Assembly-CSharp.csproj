@@ -91,6 +91,7 @@
     <Compile Include="Assets\Settings\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Utility\SimpleMouseRotator.cs" />
     <Compile Include="Assets\Enviroment\ObstacleCoursePack\Controller\CameraManager.cs" />
+    <Compile Include="Assets\Scripts\Bullet.cs" />
     <Compile Include="Assets\Enviroment\Grass by Daniel Ilett\BotWGrass.cs" />
     <Compile Include="Assets\Enviroment\ObstacleCoursePack\Scripts\FallPlat.cs" />
     <Compile Include="Assets\Scripts\EnemyGenerator.cs" />

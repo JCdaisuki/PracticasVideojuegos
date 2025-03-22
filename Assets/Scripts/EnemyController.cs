@@ -78,48 +78,8 @@ public class EnemyController : MonoBehaviour
             collider.enabled = false;
         }
 
-        GetPressed(pressed, 0.3f);
-    }
-
-    public void Spawn()
-    {
         GameObject effectInstance = Instantiate(pofEffect, transform.position, transform.rotation);
-        Destroy(effectInstance, 3f);
-
-        foreach(Collider collider in colliders)
-        {
-            collider.enabled = true;
-        }
-
-        foreach(SkinnedMeshRenderer skinnedMeshRenderer in skinnedMeshRenderers)
-        {
-            skinnedMeshRenderer.enabled = true;
-        }
-
-        navMeshAgent.speed = navMeshSpeed;
-        transform.localScale = normal;
-    }
-    
-    private IEnumerator GetPressed(Vector3 targetScale, float duration)
-    {
-        Vector3 initialScale = transform.localScale;
-        float elapsedTime = 0f;
-
-        while (elapsedTime < duration)
-        {
-            transform.localScale = Vector3.Lerp(initialScale, targetScale, elapsedTime / duration);
-            elapsedTime += Time.deltaTime;
-            yield return null;
-        }
-
-        transform.localScale = targetScale;
-
-        foreach(SkinnedMeshRenderer skinnedMeshRenderer in skinnedMeshRenderers)
-        {
-            skinnedMeshRenderer.enabled = false;
-        }
-        
-        isDead = true;
-        navMeshAgent.speed = 0;
+        Destroy(effectInstance, 1f);
+        Destroy(gameObject);
     }
 }

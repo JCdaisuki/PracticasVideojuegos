@@ -596,7 +596,8 @@ MonoBehaviour:
   navMeshSpeed: 0
   isDead: 0
   sizeReduction: 3
-  pofEffect: {fileID: 0}
+  pofEffect: {fileID: 4288095235632258968, guid: 103f85fd4ed89e242a04b921bb7c66cf,
+    type: 3}
 --- !u!1 &1283450104723467069
 GameObject:
   m_ObjectHideFlags: 0
