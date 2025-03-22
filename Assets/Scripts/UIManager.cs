@@ -1,9 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityStandardAssets.Characters.ThirdPerson;
+using UnityEngine.SceneManagement;
 
 public class UIManager : MonoBehaviour
 {
@@ -23,9 +25,16 @@ public class UIManager : MonoBehaviour
     public GameObject winScreen;
     public GameObject loseScreen;
     private Vector3 restartPosition;
+    public string mainMenuScene;
+
+    [Header("Sounds")]
+    public AudioSource audioSource;
+    public AudioClip victoryAudio;
 
     private void Start()
     {
+        audioSource = GetComponent<AudioSource>();
+
         progressBar = GetComponentInChildren<Slider>();
         totalDistance = Vector3.Distance(player.position, finish.position);
 
@@ -70,7 +79,10 @@ public class UIManager : MonoBehaviour
     }
 
     public void WinScreen()
-    {
+    {    
+        audioSource.clip = victoryAudio;
+        audioSource.PlayOneShot(victoryAudio);
+
         player.gameObject.SetActive(false);
 
         gameOverScreen.SetActive(true);
@@ -83,5 +95,10 @@ public class UIManager : MonoBehaviour
 
         gameOverScreen.SetActive(true);
         loseScreen.SetActive(true);
+    }
+
+    public void MainMenu()
+    {
+        SceneManager.LoadScene(mainMenuScene);
     }
 }

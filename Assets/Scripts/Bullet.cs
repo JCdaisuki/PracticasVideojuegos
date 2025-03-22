@@ -11,6 +11,7 @@ public class Bullet : MonoBehaviour
         if(other.gameObject.layer == 8) //Layer de criaturas
         {
             other.gameObject.GetComponent<EnemyController>().Die();
+            FindAnyObjectByType<FirstPersonUI>().AddPoint();
         }
     }
 }

@@ -4,17 +4,23 @@ public class Shooting : MonoBehaviour
 {
     [Header("References")]
     public Camera cam; 
+    public AudioSource audioSource;
     public LayerMask targetLayer; 
     public Transform gunBarrel;
 
     [Header("Bullet Config.")]
-    public GameObject shootEffect;
     public GameObject bulletPrefab;
     public float bulletSpeed = 5f;
+
+    [Header("Effects")]
+    public GameObject shootEffect;
+    public AudioClip shotAudio;
+
 
     private void Start()
     {
         cam = FindAnyObjectByType<Camera>();
+        audioSource = GetComponent<AudioSource>();
 
         shootEffect.active = false;
     }
@@ -32,16 +38,19 @@ public class Shooting : MonoBehaviour
         shootEffect.SetActive(true);
         Invoke("ShootEffect", 0.05f);
 
+        audioSource.clip = shotAudio;
+        audioSource.PlayOneShot(shotAudio);
+
         GameObject bullet = GameObject.Instantiate(bulletPrefab, gunBarrel.position, Quaternion.identity);
         Rigidbody rb = bullet.GetComponent<Rigidbody>();
-        
+
         if (rb != null)
         {
-            Vector3 target = GetMouseWorldPosition();
-            Vector3 direction = (target - transform.position).normalized;
-            bullet.GetComponent<Rigidbody>().velocity = Quaternion.AngleAxis(0, Vector3.up) * (direction * bulletSpeed);
+            rb.useGravity = false; 
+            Vector3 direction = (gunBarrel.forward).normalized; 
+            rb.velocity = direction * bulletSpeed;
         }
-        
+
         Destroy(bullet, 5f);
     }
 

@@ -78,6 +78,7 @@
     <Compile Include="Assets\Settings\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Utility\AutoMoveAndRotate.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Utility\EventSystemChecker.cs" />
+    <Compile Include="Assets\Scripts\Main Menu UI.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Characters\ThirdPersonCharacter\Scripts\AICharacterControl.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Environment\Water\Water\Scripts\WaterTile.cs" />
@@ -99,6 +100,7 @@
     <Compile Include="Assets\Settings\Standard Assets\Utility\CurveControlledBob.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Cameras\Scripts\AbstractTargetFollower.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Cameras\Scripts\TargetFieldOfView.cs" />
+    <Compile Include="Assets\Scripts\1stPersonUI.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" />
     <Compile Include="Assets\Settings\Standard Assets\Environment\Water\Water\Scripts\MeshContainer.cs" />
     <Compile Include="Assets\Scripts\PlayeTagsCheck.cs" />
